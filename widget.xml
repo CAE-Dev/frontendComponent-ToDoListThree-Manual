@@ -70,7 +70,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <!-- Bootstrap stylesheet import -->
   <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
   <!-- own style information -->
-  <link rel="stylesheet" href="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/css/style.css">
+  <link rel="stylesheet" href="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/css/style.css">
 
   <!-- import jQuery for AJAX calls -->
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -79,18 +79,18 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <!-- OpenApp import -->
   <script type="text/javascript" src="http://open-app.googlecode.com/files/openapp.js"></script>
   <!-- inter widget communication library import -->
-  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/iwc.js"></script>
+  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/iwc.js"></script>
   <!-- additional widget specific imports (put your own imports here as well) -->
-  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/y.js"></script>
-  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/y-array.js"></script>
-  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/y-text.js"></script>
-  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/y-websockets-client.js"></script>  
-  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/y-memory.js"></script>
+  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/y.js"></script>
+  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/y-array.js"></script>
+  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/y-text.js"></script>
+  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/y-websockets-client.js"></script>  
+  <script src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/y-memory.js"></script>
 
   <!-- import the client library -->
-  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/lib/las2peerWidgetLibrary.js"></script>
+  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/las2peerWidgetLibrary.js"></script>
   <!-- import application script -->
-  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree/js/applicationScript.js"></script>
+  <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/applicationScript.js"></script>
 
 </head>
 <body>

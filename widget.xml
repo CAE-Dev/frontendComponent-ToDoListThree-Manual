@@ -91,7 +91,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/lib/las2peerWidgetLibrary.js"></script>
   <!-- import application script -->
   <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoListThree-Manual/js/applicationScript.js"></script>
-
+<script type="text/javascript" src="http://gaudi.informatik.rwth-aachen.de:8073/spaces/todolistthree/gamification/gamifier.js"></script>
+  <script type="text/javascript" src="http://gaudi.informatik.rwth-aachen.de:8073/spaces/todolistthree/gamification/oidc-widget.js"></script>
 </head>
 <body>
 

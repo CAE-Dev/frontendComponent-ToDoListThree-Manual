@@ -111,6 +111,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
       <button id='AddButton' class="btn btn-default">Add</button>
     </div>
     <br>
+	<br>
     <br>
     <input type="text" class="form-control" id="messageStatus" placeholder="Status..." readonly>
 

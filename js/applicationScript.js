@@ -31,7 +31,7 @@
  */
 
 var client, dataStorage;//, dataStorage = [];
-var gameId = 'todolistapp', epURL = 'http://gaudi.informatik.rwth-aachen.de:8073/spaces/todolistthree';
+var gameId = 'todolistapp', epURL = 'http://gaudi.informatik.rwth-aachen.de:8086/';
 var init = function() {
   
   var iwcCallback = function(intent) {

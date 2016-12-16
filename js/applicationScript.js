@@ -70,7 +70,8 @@ y.share.dataList.bind(document.getElementById('dataList'))
   })
   $('#AddButton').on('click', function() {
   dataStorage.push('addAction');
-  console.log("listContent")
+  console.log("listContent");
+ 
     AddEntry();
   })
   $('#DeleteButton').on('click', function() {
@@ -95,7 +96,7 @@ var ShowEntries = function(){
 // AddEntry
 var AddEntry = function(){
   var listContent = $("#inputData").val();
-  console.log(listContent)
+  console.log(listContent);
   var temp = [];
   temp.push(listContent)
   sendMessageFunction(temp);

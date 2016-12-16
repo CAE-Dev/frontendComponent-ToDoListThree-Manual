@@ -69,7 +69,7 @@ y.share.dataList.bind(document.getElementById('dataList'))
     ShowEntries();
   })
   $('#AddButton').on('click', function() {
-  dataStorage.push(contentData);
+  dataStorage.push('addAction');
   console.log("listContent")
     AddEntry();
   })
